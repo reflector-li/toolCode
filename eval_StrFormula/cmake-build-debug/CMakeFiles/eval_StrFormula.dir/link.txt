@@ -1,3 +1,0 @@
-"D:\Clion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\eval_StrFormula.dir/objects.a
-D:\install_packages\MinGW\mingw64\bin\ar.exe cr CMakeFiles\eval_StrFormula.dir/objects.a @CMakeFiles\eval_StrFormula.dir\objects1.rsp
-D:\install_packages\MinGW\mingw64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\eval_StrFormula.dir/objects.a -Wl,--no-whole-archive  -o eval_StrFormula.exe -Wl,--out-implib,libeval_StrFormula.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\eval_StrFormula.dir\linklibs.rsp
