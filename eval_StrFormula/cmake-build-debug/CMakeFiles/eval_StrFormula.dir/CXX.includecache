@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/onedrive for sjtu/OneDrive - sjtu.edu.cn/coding_file/c++/toolCode/eval_StrFormula/evalStr.cpp
+evalStr.h
+E:/onedrive for sjtu/OneDrive - sjtu.edu.cn/coding_file/c++/toolCode/eval_StrFormula/evalStr.h
+utility
+-
+
+E:/onedrive for sjtu/OneDrive - sjtu.edu.cn/coding_file/c++/toolCode/eval_StrFormula/evalStr.h
+string
+-
+cmath
+-
+iostream
+-
+
+E:/onedrive for sjtu/OneDrive - sjtu.edu.cn/coding_file/c++/toolCode/eval_StrFormula/main.cpp
+iostream
+-
+evalStr.h
+E:/onedrive for sjtu/OneDrive - sjtu.edu.cn/coding_file/c++/toolCode/eval_StrFormula/evalStr.h
+

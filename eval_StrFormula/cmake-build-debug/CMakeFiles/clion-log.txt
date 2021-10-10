@@ -1,0 +1,4 @@
+"D:\Clion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "E:\onedrive for sjtu\OneDrive - sjtu.edu.cn\coding_file\c++\toolCode\eval_StrFormula"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/onedrive for sjtu/OneDrive - sjtu.edu.cn/coding_file/c++/toolCode/eval_StrFormula/cmake-build-debug
