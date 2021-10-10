@@ -1,3 +1,0 @@
-E:/onedrive for sjtu/OneDrive - sjtu.edu.cn/coding_file/c++/toolCode/eval_StrFormula/cmake-build-debug/CMakeFiles/eval_StrFormula.dir
-E:/onedrive for sjtu/OneDrive - sjtu.edu.cn/coding_file/c++/toolCode/eval_StrFormula/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/onedrive for sjtu/OneDrive - sjtu.edu.cn/coding_file/c++/toolCode/eval_StrFormula/cmake-build-debug/CMakeFiles/rebuild_cache.dir
